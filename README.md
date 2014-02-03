@@ -13,6 +13,7 @@ I always found it extremely helpful to learn from the more experienced. Here is 
 
 ## Angular
 
+* [angular-app](https://github.com/angular-app/angular-app)
 * [JukeTube](https://github.com/jgthms/juketube)
 * [Angular Directory](https://github.com/ccoenraets/angular-directory)
 * [Angular 7min](https://github.com/mgcrea/angular-7min)
