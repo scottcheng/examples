@@ -7,6 +7,7 @@ I always found it extremely helpful to learn from the more experienced. Here is 
 * [Codebox](https://github.com/FriendCode/codebox)
 * [Ghost](https://github.com/TryGhost/Ghost) - with Backbone
 * [NodeBB](https://github.com/designcreateplay/NodeBB)
+* [stackedit](https://github.com/benweet/stackedit)
 
 ## Ember
 
