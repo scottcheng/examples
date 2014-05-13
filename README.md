@@ -20,3 +20,4 @@ I always found it extremely helpful to learn from the more experienced. Here is 
 * [Angular Directory](https://github.com/ccoenraets/angular-directory)
 * [Angular 7min](https://github.com/mgcrea/angular-7min)
 * [AngularJS Collab Board](https://github.com/simpulton/angularjs-collab-board) - with Socket.io
+* [Angular Socket.IO IM Demo](https://github.com/btford/angular-socket-io-im) - with Socket.io
